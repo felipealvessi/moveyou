@@ -1,7 +1,7 @@
 import { ExperienceBar } from './../components/ExperienceBar';
 import { Profile } from './../components/Profile';
-
 import styles from '../styles/Pages/Home.module.css';
+
 
 
 export default function Home() {
